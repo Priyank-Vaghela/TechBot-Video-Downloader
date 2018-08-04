@@ -1,11 +1,12 @@
 # TechBot Video Downloader - https://tbvd.herokuapp.com
-**Fastest Free Video Downloader**
+*Fastest Free Video Downloader*
 -----------------
 
 # Features:
 
 * Supports Youtube, FB, Insta, Vimeo
 * 1-Click MP3 Download
+* Bookmarklet Support
 ---
 
 # More
