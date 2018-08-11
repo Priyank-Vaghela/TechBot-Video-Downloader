@@ -1,4 +1,4 @@
-# TechBot Video Downloader - https://tbvd.herokuapp.com
+# TechBot Video Downloader - https://bit.ly/tb_vd
 *Fastest Free Video Downloader*
 -----------------
 
