@@ -1,6 +1,7 @@
 # TechBot Video Downloader - https://bit.ly/tb_vd
 *"Fastest Free Video Downloader"*
 -----------------
+<img src="./assets/tbvd_og_image.png">
 
 # Features:
 
